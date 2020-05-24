@@ -1,0 +1,30 @@
+{
+  "name": "study-mean-stack",
+  "version": "1.0.0",
+  "description": "Изучение MEAN стека",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "bcryptjs": "*",
+    "passport": "*",
+    "passport-jwt": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "jsonwebtoken": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alekshel/study-mean-stack.git"
+  },
+  "author": "Алексей Шелудченко, уроки от Гоша Дударь",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alekshel/study-mean-stack/issues"
+  },
+  "homepage": "https://github.com/alekshel/study-mean-stack#readme"
+}
